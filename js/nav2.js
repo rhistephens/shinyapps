@@ -9,6 +9,6 @@ $(document).ready(function() {
   $(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/MortalityCounts" target="_blank">Cancer Deaths</a></li>');
   /*$(".dropdown-menu-2").append('<li><a href="https://bccandataanalytics.shinyapps.io/MortalityCrudeRates" target="_blank">Crude Rates</a></li>');*/
   $(".dropdown-menu-3").append('<li><a href="https://bccandataanalytics.shinyapps.io/PrevalenceCounts" target="_blank">Number of Prevalent Cases</a></li>');
-  $(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/CreateTableIncidenceCounts" target="_blank">New Cancer Diagnoses</a></li>');
-  $(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/CreateTableMortalityCounts" target="_blank">Cancer Deaths</a></li>');
+  /*$(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/CreateTableIncidenceCounts" target="_blank">New Cancer Diagnoses</a></li>');*/
+  /*$(".dropdown-menu-4").append('<li><a href="https://bccandataanalytics.shinyapps.io/CreateTableMortalityCounts" target="_blank">Cancer Deaths</a></li>');*/
 });
