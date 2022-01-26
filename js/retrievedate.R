@@ -1,2 +1,2 @@
-p("Data Source: BC Cancer Registry", tags$br(),
-  "Date Retrieved:  17 Jan 2021")
+p("Data Source: BC Cancer Registry"),
+p("Date Retrieved:  17 Jan 2021")
