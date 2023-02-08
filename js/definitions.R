@@ -1,0 +1,1 @@
+"Cancer type includes a broader classification based on related organs, such as all organs related to digestive functions are included in 'Digestive Organs'. For a complete classification, please see the glossary"
