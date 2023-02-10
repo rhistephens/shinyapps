@@ -1,2 +1,3 @@
 ("Cancer type includes a broader classification based on related organs, such as all organs related to digestive functions are included in 'Digestive Organs'. For a complete classification, please see the glossary")
 ("Cancer subtype includes individual organs within the Cancer Type, such as 'Stomach' is a cancer subtype within the cancer type of 'Digestive Organs'. For a complete classification, please see the glossary.")
+("Cancer type includes a simple classification based on an organ or group of organs. For a complete classification, please see the XXX column in the glossary.")
