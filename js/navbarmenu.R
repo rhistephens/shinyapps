@@ -1,3 +1,4 @@
+navbarMenu(actionButton("home", "Home"))
 navbarMenu(actionButton("inc", "Incidence Reports"))
 navbarMenu(actionButton("mort", "Mortality Reports"))
 navbarMenu(actionButton("prev", "Prevalence Reports"))
