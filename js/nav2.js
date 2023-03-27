@@ -22,7 +22,7 @@ $(document).ready(function() {
   $(".dropdown-menu-6").append('<li><a href="https://bccandataanalytics.shinyapps.io/LifetimeRisk/" target="_blank">Lifetime Risk</a></li>');
   $(".dropdown-menu-7").append('<li><a href="https://bccandataanalytics.shinyapps.io/IncidCreateYourOwnTable/" target="_blank">BC: New Cancer Diagnoses</a></li>');
   $(".dropdown-menu-7").append('<li><a href="https://bccandataanalytics.shinyapps.io/MortCreateYourOwnTable/" target="_blank">BC: Cancer Deaths</a></li>');
-  /*$(".dropdown-menu-6").append('<li><a href="https://bccandataanalytics.shinyapps.io/SurvivalRate/" target="_blank">Survival Rate</a></li>');*/
+  $(".dropdown-menu-6").append('<li><a href="https://bccandataanalytics.shinyapps.io/SurvivalRate/" target="_blank">Survival Rate</a></li>');
  
   /*$(".dropdown-menu-5").append('<li><a href="https://bccandataanalytics.shinyapps.io/CreateTableMortalityCounts" target="_blank">Cancer Deaths</a></li>');*/
 });
